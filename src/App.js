@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import About from './components/About';
+import Services from './components/Services';
 import ProfileCard from './components/ProfileCard';
 import Tech from './components/Tech';
 import Contact from './components/Contact';
@@ -11,6 +12,7 @@ function App() {
       <div className=' bg-gray-200'>
         <ProfileCard/>
         <About/>
+        <Services/>
         <Tech/>
         <Contact/>
         <Footer/>
