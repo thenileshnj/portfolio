@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='mx-auto my-16'> 
         <div className='flex font-extrabold text-2xl justify-center'>
-            <p>Hey 👋 </p>
+            <p>Hey 👋</p>
         </div>
         <div className='flex font-bold text-xl justify-center pt-2'>
             <p>Myself Nilesh, Nice to Meet You! </p>
